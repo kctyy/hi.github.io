@@ -17,7 +17,7 @@ h1 {
 }
 
 .search {
-padding-top: 450px
+padding-top: 100px
 }
 
 .space {
@@ -44,3 +44,59 @@ padding-top: 450px
   
 }
 
+.active {
+ 
+}
+
+.carousel-inner img{
+  width: 400;
+  height: 400;
+
+}
+
+.tester{
+  display: inline-block;
+  align-items: center;
+  margin:auto;
+  position: absolute;
+  left: 700px;
+  top: 200px; 
+  padding-right: 50px
+  
+}
+
+#carouselExampleIndicators{
+  display: inline-block;
+}
+
+p {
+  font-family: 'Castoro', serif;
+  font-size: 17px;
+}
+
+h6 {
+  font-family: 'Castoro', serif;
+}
+
+h5 {
+  font-family: 'Castoro', serif;
+  font-size: 25px;
+}
+
+h4 {
+  font-family: 'Castoro', serif;
+  font-size: 20px;
+}
+
+
+.display-2 {
+   font-family: 'RavaliItalic';
+   font-weight: normal;
+   font-style: italic;
+}
+
+.font1 {
+   font-family: 'RavaliItalic';
+   font-weight: normal;
+   font-style: italic;
+}
